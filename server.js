@@ -3,7 +3,7 @@ const input = require('prompt-sync')({ sigint: true });
 const pool = new Pool({
     host: 'localhost',
     user: 'postgres',
-    password: '<your password>',
+    password: '1234',
     database: 'students',
     port: 5432
 });
