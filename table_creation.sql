@@ -17,7 +17,7 @@ select add_dept('CSE');
 
 --drop table department
 
-select add_emp('shyam',934243746,1);
+select add_emp('shyam',933583746,1);
 select add_emp('sundar',934248746,2);
 select add_emp('thenmozhi',939243746,3);
 select add_emp('Jothishree',935243746,4);
